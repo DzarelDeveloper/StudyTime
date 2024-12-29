@@ -39,4 +39,4 @@
 2. Navigate to the directory where the `studytime.py` file is located.  
 3. Run the script using the command:  
    ```bash
-   python studytime.py
+   python project-12.py
